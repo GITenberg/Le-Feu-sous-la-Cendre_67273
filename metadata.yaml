@@ -1,0 +1,31 @@
+_repo: Le-Feu-sous-la-Cendre_67273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ardel, Henri
+    aliases:
+    - Abraham, Berthe
+    - Ardel, Henry
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '34968'
+    url: http://www.gutenberg.org/2009/agents/34968
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
+description: ''
+gutenberg_issued: '2022-01-29'
+identifiers:
+  gutenberg: '67273'
+language: fr
+pgterms:marc905: 20190311065613ardel
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Delphine Lettau, Al Haines, Chuck Greif & the online Distributed
+  Proofreaders Canada team at https://www.pgdpcanada.net
+publication_note: France :Nelson,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Feu sous la Cendre
+url: http://www.gutenberg.org/ebooks/67273
